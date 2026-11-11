@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "youtube-agent-skill",
+  "description": "The YouTube agent skill pack for Claude",
+  "plugins": [
+    {
+      "name": "youtube-agent",
+      "description": "Fifteen Claude skills and two agents that run a YouTube channel, including a channel audit, an A/B test reader, a sponsorship rate card, a retention reader, a voice profiler and a pre-publish check.",
+      "source": "./",
+      "category": "productivity",
+      "version": "2.0.0"
+    }
+  ],
+  "owner": {
+    "name": "gladosAagman",
+    "url": "https://github.com/gladosAagman"
+  }
+}

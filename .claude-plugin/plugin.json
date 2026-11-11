@@ -1,0 +1,26 @@
+{
+  "name": "youtube-agent",
+  "description": "Fifteen Claude skills and two agents that run a YouTube channel: scripts off 21 hook formulas with a scored hook, title and thumbnail linted as one pairing, an edit decision list, a retention reader, a channel audit that names the one fix from your Studio export, A/B test significance, a sponsorship rate card from your median views, Shorts, chapters, search, comments, the weekly plan exported to your calendar, a virality engine, a voice profiler from your transcripts, and a one-command pre-publish check.",
+  "version": "2.0.0",
+  "keywords": [
+    "youtube",
+    "shorts",
+    "retention",
+    "thumbnails",
+    "titles",
+    "content",
+    "video",
+    "seo",
+    "sponsorship",
+    "ab-testing",
+    "claude-code",
+    "agent-skills"
+  ],
+  "author": {
+    "name": "gladosAagman",
+    "url": "https://github.com/gladosAagman"
+  },
+  "homepage": "https://github.com/gladosAagman/youtube-agent-skill",
+  "repository": "https://github.com/gladosAagman/youtube-agent-skill",
+  "license": "MIT"
+}
